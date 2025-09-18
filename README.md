@@ -1,5 +1,5 @@
 
-# Clases de cursos particulares dados
+# Clases particulares dadas, códigos hechos en eclipse
 
 Un repositorio para guardar los códigos hechos durante las clases particulares que les doy a mis compañeros de universidad, estarán aquí disponibles para todo momento en que necesiten visualizarlos nuevamente para guiarse o recordar detalles importantes de la clase.
 
